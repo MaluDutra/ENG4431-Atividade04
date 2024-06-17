@@ -1,0 +1,84 @@
+{
+  "flores": [
+    {
+      "id": "1",
+      "nome": "Rosa",
+      "cor": "Vermelho",
+      "preco": 14.9,
+      "data": "11/03/2024",
+      "especie": "Rosaceae"
+    },
+    {
+      "id": "2",
+      "nome": "Girassol",
+      "cor": "Amarelo",
+      "preco": 16.9,
+      "data": "10/03/2024",
+      "especie": "Helianthus annuus L."
+    },
+    {
+      "id": "3",
+      "nome": "Hibisco",
+      "cor": "Rosa",
+      "preco": 16.9,
+      "data": "10/03/2024",
+      "especie": "Helianthus annuus L."
+    },
+    {
+      "id": "4",
+      "nome": "Crisântemo",
+      "cor": "Multicolorido",
+      "preco": 10.4,
+      "data": "05/03/2024",
+      "especie": "Chrysanthemum"
+    },
+    {
+      "id": "5",
+      "nome": "Peônia",
+      "cor": "Rosa",
+      "preco": 13.5,
+      "data": "03/03/2024",
+      "especie": "Paeonia"
+    },
+    {
+      "id": "6",
+      "nome": "Lírio",
+      "cor": "Branco",
+      "preco": 15.6,
+      "data": "28/02/2024",
+      "especie": "Lilium"
+    },
+    {
+      "id": "7",
+      "nome": "Lírio-do-Vale",
+      "cor": "Branco",
+      "preco": 14.5,
+      "data": "09/08/2024",
+      "especie": "Convallaria majalis"
+    },
+    {
+      "id": "8",
+      "nome": "oioioi",
+      "cor": "oioioi",
+      "preco": 80,
+      "data": "09/09/9000",
+      "especie": "ghfhf"
+    },
+    {
+      "id": "9",
+      "nome": "otioyriyr",
+      "cor": "ookoko",
+      "preco": 90,
+      "data": "09/09/1987",
+      "especie": "oerteokte"
+    },
+    {
+      "id": "10",
+      "nome": "kdjskjfsk",
+      "cor": "ksjfksjdfks",
+      "preco": 90,
+      "data": "09/09/9000",
+      "especie": "sdfsdfs"
+    }
+  ]
+}
